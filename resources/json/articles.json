@@ -1,0 +1,2380 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Technology",
+    "last_updated": "2021-02-09T13:37:39-05:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "The Great Firewall Cracked, Briefly. A People Shined Through.",
+            "abstract": "China’s censors finally blocked Clubhouse, but not before users were able to bypass the caricatures painted by government-controlled media and freely discuss their hopes and fears.",
+            "url": "https://www.nytimes.com/2021/02/09/technology/china-clubhouse.html",
+            "uri": "nyt://article/b0e3300b-36d5-55e2-9be1-90d3f25cdbbe",
+            "byline": "By Li Yuan",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T16:27:56-05:00",
+            "created_date": "2021-02-09T05:10:49-05:00",
+            "published_date": "2021-02-09T05:10:49-05:00",
+            "material_type_facet": "",
+            "kicker": "The New New World",
+            "des_facet": [
+                "Politics and Government",
+                "Censorship",
+                "Freedom of Speech and Expression",
+                "Muslims and Islam",
+                "Surveillance of Citizens by Government",
+                "Social Media",
+                "Human Rights and Human Rights Violations",
+                "Mobile Applications"
+            ],
+            "org_facet": [
+                "Clubhouse (Mobile App)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/09newworld-1/09newworld-1-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1361,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under Xi Jinping&rsquo;s leadership, a growing number of topics have become off limits on the Chinese internet.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/09newworld-1/09newworld-1-thumbStandard-v3.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under Xi Jinping&rsquo;s leadership, a growing number of topics have become off limits on the Chinese internet.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/09newworld-1/09newworld-1-thumbLarge-v3.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under Xi Jinping&rsquo;s leadership, a growing number of topics have become off limits on the Chinese internet.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/09newworld-1/09newworld-1-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under Xi Jinping&rsquo;s leadership, a growing number of topics have become off limits on the Chinese internet.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/09newworld-1/09newworld-1-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under Xi Jinping&rsquo;s leadership, a growing number of topics have become off limits on the Chinese internet.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3tHnk8D"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Reddit, the Talk of the Internet, Raises $250 Million",
+            "abstract": "The start-up, which was at the center of a recent stock market frenzy, was valued at $6 billion in the new funding round.",
+            "url": "https://www.nytimes.com/2021/02/08/technology/reddit-raises-250-million.html",
+            "uri": "nyt://article/a3e28303-e9db-5aff-bd66-dec3f7afd0bf",
+            "byline": "By Mike Isaac",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T06:46:10-05:00",
+            "created_date": "2021-02-08T21:54:27-05:00",
+            "published_date": "2021-02-08T21:54:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Venture Capital",
+                "Social Media",
+                "Online Advertising",
+                "Advertising and Marketing",
+                "Stocks and Bonds",
+                "Start-ups",
+                "Super Bowl",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "Reddit Inc"
+            ],
+            "per_facet": [
+                "Huffman, Steve (1983- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/us/politics/08redditfunds-photo/08redditfunds-photo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Huffman, Reddit’s chief executive, speaking at a tech conference in 2017. The company raised new funding for hiring and growth.",
+                    "copyright": "Horacio Villalobos/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/us/politics/08redditfunds-photo/08redditfunds-photo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Huffman, Reddit’s chief executive, speaking at a tech conference in 2017. The company raised new funding for hiring and growth.",
+                    "copyright": "Horacio Villalobos/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/us/politics/08redditfunds-photo/08redditfunds-photo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Huffman, Reddit’s chief executive, speaking at a tech conference in 2017. The company raised new funding for hiring and growth.",
+                    "copyright": "Horacio Villalobos/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/us/politics/08redditfunds-photo/08redditfunds-photo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Huffman, Reddit’s chief executive, speaking at a tech conference in 2017. The company raised new funding for hiring and growth.",
+                    "copyright": "Horacio Villalobos/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/us/politics/08redditfunds-photo/08redditfunds-photo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Huffman, Reddit’s chief executive, speaking at a tech conference in 2017. The company raised new funding for hiring and growth.",
+                    "copyright": "Horacio Villalobos/Corbis, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rFpV1j"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Elon Musk and Snoop Dogg Push Cryptocurrencies to Record Highs",
+            "abstract": "Bitcoin and even Dogecoin, which began as a playful experiment, are soaring in value as billionaires, companies and celebrities promote the digital currencies.",
+            "url": "https://www.nytimes.com/2021/02/08/technology/dogecoin-bitcoin-elon-musk-snoop-dogg.html",
+            "uri": "nyt://article/f20fbd56-5403-5039-8037-012b2637784c",
+            "byline": "By Nathaniel Popper",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T13:34:57-05:00",
+            "created_date": "2021-02-08T18:57:27-05:00",
+            "published_date": "2021-02-08T18:57:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Virtual Currency",
+                "Bitcoin (Currency)",
+                "Social Media",
+                "Celebrities"
+            ],
+            "org_facet": [
+                "Tesla Motors Inc",
+                "Dogecoin Project",
+                "Ethereum Foundation"
+            ],
+            "per_facet": [
+                "Musk, Elon",
+                "Snoop Dogg"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/08crypto1/merlin_183352905_3c703be1-7bda-4270-a28b-3a94bfc84aee-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1458,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Bitcoin A.T.M. in Marseille, France. The value of various cryptocurrencies has been surging this year.",
+                    "copyright": "Eric Gaillard/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/08crypto1/08crypto1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Bitcoin A.T.M. in Marseille, France. The value of various cryptocurrencies has been surging this year.",
+                    "copyright": "Eric Gaillard/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/08crypto1/08crypto1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Bitcoin A.T.M. in Marseille, France. The value of various cryptocurrencies has been surging this year.",
+                    "copyright": "Eric Gaillard/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/08crypto1/08crypto1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Bitcoin A.T.M. in Marseille, France. The value of various cryptocurrencies has been surging this year.",
+                    "copyright": "Eric Gaillard/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/08crypto1/merlin_183352905_3c703be1-7bda-4270-a28b-3a94bfc84aee-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 135,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Bitcoin A.T.M. in Marseille, France. The value of various cryptocurrencies has been surging this year.",
+                    "copyright": "Eric Gaillard/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/36W5CEH"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "You Can’t Find a Laptop. Or a Car?",
+            "abstract": "Buying electronics now is rough. Be patient. Shop around. And try not to break anything important.",
+            "url": "https://www.nytimes.com/2021/02/09/technology/you-cant-find-a-laptop-or-a-car.html",
+            "uri": "nyt://article/cf0149d2-bd15-5f9c-adc0-c13df509f2a4",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T15:49:04-05:00",
+            "created_date": "2021-02-09T13:26:05-05:00",
+            "published_date": "2021-02-09T13:26:05-05:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Computer Chips",
+                "Computer and Video Games",
+                "Electronics"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/09ontech-computerchip/09ontech-computerchip-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/09ontech-computerchip/09ontech-computerchip-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/09ontech-computerchip/09ontech-computerchip-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/09ontech-computerchip/09ontech-computerchip-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/business/09ontech-computerchip/09ontech-computerchip-articleInline.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Z449Yw"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "‘I’m Not a Cat,’ Says Lawyer Having Zoom Difficulties",
+            "abstract": "The video was immediately shared widely and brought joy to many. The lawyer, Rod Ponton, said he was happy people got a much-needed laugh.",
+            "url": "https://www.nytimes.com/2021/02/09/style/cat-lawyer-zoom.html",
+            "uri": "nyt://article/8f8ea660-5df4-5ddc-be8d-a3a9d9417c51",
+            "byline": "By Daniel Victor",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T17:20:19-05:00",
+            "created_date": "2021-02-09T16:58:23-05:00",
+            "published_date": "2021-02-09T16:58:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cats",
+                "Videophones and Videoconferencing"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1280,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "During a hearing on Tuesday in Texas’ 394th Judicial District Court, a lawyer who, despite appearances, is not a cat had to clarify the situation before a judge.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "During a hearing on Tuesday in Texas’ 394th Judicial District Court, a lawyer who, despite appearances, is not a cat had to clarify the situation before a judge.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "During a hearing on Tuesday in Texas’ 394th Judicial District Court, a lawyer who, despite appearances, is not a cat had to clarify the situation before a judge.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "During a hearing on Tuesday in Texas’ 394th Judicial District Court, a lawyer who, despite appearances, is not a cat had to clarify the situation before a judge.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 119,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "During a hearing on Tuesday in Texas’ 394th Judicial District Court, a lawyer who, despite appearances, is not a cat had to clarify the situation before a judge.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3d3oHJf"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "What, Exactly, Is Amazon Web Services?",
+            "abstract": "Andy Jassy, the successor to Jeff Bezos, was already running the company’s most profitable business.",
+            "url": "https://www.nytimes.com/2021/02/09/style/amazon-web-services.html",
+            "uri": "nyt://article/1c08dec0-2778-5492-889a-bb5e20229e8e",
+            "byline": "By John Herrman",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T12:53:56-05:00",
+            "created_date": "2021-02-09T12:53:56-05:00",
+            "published_date": "2021-02-09T12:53:56-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cloud Computing"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+                "Jassy, Andrew R",
+                "Bezos, Jeffrey P"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08aws-v1/08aws-v1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2019,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08aws-v1/08aws-v1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08aws-v1/08aws-v1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08aws-v1/08aws-v1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08aws-v1/08aws-v1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 84,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Z0mDcD"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "N.Y.’s Vaccine Websites Weren’t Working. He Built a New One for $50.",
+            "abstract": "New Yorkers with tech skills were appalled when they tried to make vaccine appointments for older relatives. They knew there was a better way.",
+            "url": "https://www.nytimes.com/2021/02/09/nyregion/vaccine-website-appointment-nyc.html",
+            "uri": "nyt://article/c32c54b5-b513-55d7-b021-2f49bc30f819",
+            "byline": "By Sharon Otterman",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T10:18:43-05:00",
+            "created_date": "2021-02-09T05:00:16-05:00",
+            "published_date": "2021-02-09T05:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Computers and the Internet",
+                "Race and Ethnicity",
+                "Elderly"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvaccine-volunteer1/merlin_183077583_b52f89e0-fd8f-4d52-adc9-aac7694274c3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Huge Ma, a software engineer, built his own vaccine appointment site in less than two weeks.",
+                    "copyright": "Amir Hamja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvaccine-volunteer1/00nyvaccine-volunteer1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Huge Ma, a software engineer, built his own vaccine appointment site in less than two weeks.",
+                    "copyright": "Amir Hamja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvaccine-volunteer1/00nyvaccine-volunteer1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Huge Ma, a software engineer, built his own vaccine appointment site in less than two weeks.",
+                    "copyright": "Amir Hamja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvaccine-volunteer1/00nyvaccine-volunteer1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Huge Ma, a software engineer, built his own vaccine appointment site in less than two weeks.",
+                    "copyright": "Amir Hamja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvaccine-volunteer1/merlin_183077583_b52f89e0-fd8f-4d52-adc9-aac7694274c3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Huge Ma, a software engineer, built his own vaccine appointment site in less than two weeks.",
+                    "copyright": "Amir Hamja for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/36T9shW"
+        },
+        {
+            "section": "education",
+            "subsection": "",
+            "title": "Remote Learning Isn’t Just for Kids",
+            "abstract": "New online tools and an array of remote classes and programs are ramping up education and training for adults.",
+            "url": "https://www.nytimes.com/2021/02/09/education/online-learning-older-adults.html",
+            "uri": "nyt://article/9f530277-db5f-5f21-b02b-60ee07ea3411",
+            "byline": "By Kerry Hannon",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T15:43:39-05:00",
+            "created_date": "2021-02-09T05:00:12-05:00",
+            "published_date": "2021-02-09T05:00:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Adult Education",
+                "Elderly",
+                "E-Learning",
+                "Quarantine (Life and Culture)",
+                "Computers and the Internet"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/multimedia/09sp-currents-educate/09sp-currents-educate-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "James Yang "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/multimedia/09sp-currents-educate/09sp-currents-educate-thumbStandard.gif",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "James Yang "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/multimedia/09sp-currents-educate/09sp-currents-educate-thumbLarge.gif",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "James Yang "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/multimedia/09sp-currents-educate/09sp-currents-educate-mediumThreeByTwo210.gif",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "James Yang "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/09/multimedia/09sp-currents-educate/09sp-currents-educate-articleInline.gif",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "James Yang "
+                }
+            ],
+            "short_url": "https://nyti.ms/36TCpuk"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "The Gig Economy Dipped Again in the Fall. But How Bad Was It?",
+            "abstract": "Uber and Lyft will report financial results this week for a year that upended hopes that the companies would soon turn around big losses.",
+            "url": "https://www.nytimes.com/2021/02/08/technology/uber-lyft-airbnb-gig-workers-covid.html",
+            "uri": "nyt://article/7da12cea-053c-5d4b-a7c0-6b334d72a453",
+            "byline": "By Kate Conger",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T12:48:57-05:00",
+            "created_date": "2021-02-08T13:40:03-05:00",
+            "published_date": "2021-02-08T13:40:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Freelancing, Self-Employment and Independent Contracting",
+                "Company Reports",
+                "Coronavirus (2019-nCoV)",
+                "Car Services and Livery Cabs",
+                "Delivery Services",
+                "Consumer Behavior",
+                "Travel and Vacations"
+            ],
+            "org_facet": [
+                "Airbnb",
+                "Lyft Inc",
+                "Uber Eats",
+                "Uber Technologies Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00doubledip1/merlin_183055701_ef872c87-5c50-45e5-9ee3-5d2f002a402e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Roberto Moreno, a ride-hailing driver in San Diego, 2020 was a balancing act between earning money and coronavirus safety.",
+                    "copyright": "Alex Krowiak for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00doubledip1/00doubledip1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Roberto Moreno, a ride-hailing driver in San Diego, 2020 was a balancing act between earning money and coronavirus safety.",
+                    "copyright": "Alex Krowiak for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00doubledip1/00doubledip1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Roberto Moreno, a ride-hailing driver in San Diego, 2020 was a balancing act between earning money and coronavirus safety.",
+                    "copyright": "Alex Krowiak for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00doubledip1/00doubledip1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Roberto Moreno, a ride-hailing driver in San Diego, 2020 was a balancing act between earning money and coronavirus safety.",
+                    "copyright": "Alex Krowiak for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00doubledip1/merlin_183055701_ef872c87-5c50-45e5-9ee3-5d2f002a402e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Roberto Moreno, a ride-hailing driver in San Diego, 2020 was a balancing act between earning money and coronavirus safety.",
+                    "copyright": "Alex Krowiak for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YU3TLU"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Facebook says it plans to remove posts with false vaccine claims.",
+            "abstract": "The move, which applies to anti-vaccine posts unrelated to Covid as well, targets unpaid posts to the site and particularly Facebook pages and groups.",
+            "url": "https://www.nytimes.com/2021/02/08/technology/facebook-vaccine-misinformation.html",
+            "uri": "nyt://article/d8742d87-f163-514c-8e19-a9f1aedee123",
+            "byline": "By Mike Isaac",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T01:07:01-05:00",
+            "created_date": "2021-02-08T13:00:33-05:00",
+            "published_date": "2021-02-08T13:00:33-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Vaccination and Immunization",
+                "News and News Media",
+                "Computers and the Internet",
+                "Rumors and Misinformation",
+                "Coronavirus (2019-nCoV)",
+                "Autism"
+            ],
+            "org_facet": [
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08distortions-facebookvaccine/merlin_183367032_fc6c441d-023e-4e29-97b6-072f85c9ea62-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anti-vaccine protesters shouted and waved signs at health care workers in Tampa, Fla., on Sunday as they entered Raymond James Stadium to watch the Super Bowl.",
+                    "copyright": "Zack Wittman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08distortions-facebookvaccine/08distortions-facebookvaccine-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anti-vaccine protesters shouted and waved signs at health care workers in Tampa, Fla., on Sunday as they entered Raymond James Stadium to watch the Super Bowl.",
+                    "copyright": "Zack Wittman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08distortions-facebookvaccine/08distortions-facebookvaccine-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anti-vaccine protesters shouted and waved signs at health care workers in Tampa, Fla., on Sunday as they entered Raymond James Stadium to watch the Super Bowl.",
+                    "copyright": "Zack Wittman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08distortions-facebookvaccine/08distortions-facebookvaccine-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anti-vaccine protesters shouted and waved signs at health care workers in Tampa, Fla., on Sunday as they entered Raymond James Stadium to watch the Super Bowl.",
+                    "copyright": "Zack Wittman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/fashion/08distortions-facebookvaccine/merlin_183367032_fc6c441d-023e-4e29-97b6-072f85c9ea62-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 152,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anti-vaccine protesters shouted and waved signs at health care workers in Tampa, Fla., on Sunday as they entered Raymond James Stadium to watch the Super Bowl.",
+                    "copyright": "Zack Wittman for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/36Pe3Sn"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "The Auto Revolution Is Here",
+            "abstract": "Traditional automakers and tech-focused companies, like Tesla, race to rule the future of cars.",
+            "url": "https://www.nytimes.com/2021/02/08/technology/the-auto-revolution-is-here.html",
+            "uri": "nyt://article/99f175b4-01c9-5dc3-bf77-fcb226604153",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-02-08T12:46:28-05:00",
+            "created_date": "2021-02-08T12:36:03-05:00",
+            "published_date": "2021-02-08T12:36:03-05:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Automobiles",
+                "Electric and Hybrid Vehicles"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/08ontech-auto/08ontech-auto-superJumbo-v2.png",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/08ontech-auto/08ontech-auto-thumbStandard-v2.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/08ontech-auto/08ontech-auto-thumbLarge-v2.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/08ontech-auto/08ontech-auto-mediumThreeByTwo210-v2.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/08ontech-auto/08ontech-auto-articleInline-v2.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Lw76hv"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "In China, an App Offered Space for Debate. Then the Censors Came.",
+            "abstract": "For a little while, the social media platform Clubhouse provided the rare opportunity for cross-border dialogue on contentious topics free from the country’s usual tight controls.",
+            "url": "https://www.nytimes.com/2021/02/08/world/asia/china-clubhouse-blocked.html",
+            "uri": "nyt://article/7e1dec45-4932-5918-86a6-eb56739986e3",
+            "byline": "By Amy Chang Chien and Amy Qin",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T18:25:12-05:00",
+            "created_date": "2021-02-08T10:08:05-05:00",
+            "published_date": "2021-02-08T10:08:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Censorship",
+                "Mobile Applications",
+                "Social Media",
+                "Uighurs (Chinese Ethnic Group)"
+            ],
+            "org_facet": [
+                "Clubhouse (Mobile App)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China",
+                "Taiwan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1406,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 130,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3twTQdE"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Where Do Vaccine Doses Go, and Who Gets Them? The Algorithms Decide",
+            "abstract": "Health agencies and hospitals are using different formulas to allocate the coronavirus shots, exacerbating disparities in vaccine access.",
+            "url": "https://www.nytimes.com/2021/02/07/technology/vaccine-algorithms.html",
+            "uri": "nyt://article/d1a9c767-0f89-528c-b642-b14344007a68",
+            "byline": "By Natasha Singer",
+            "item_type": "Article",
+            "updated_date": "2021-02-08T12:29:59-05:00",
+            "created_date": "2021-02-07T14:37:49-05:00",
+            "published_date": "2021-02-07T14:37:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Rationing and Allocation of Resources",
+                "Coronavirus (2019-nCoV)",
+                "Computers and the Internet",
+                "States (US)"
+            ],
+            "org_facet": [
+                "Palantir Technologies",
+                "Centers for Disease Control and Prevention",
+                "Health and Human Services Department",
+                "Providence Health & Services",
+                "Pfizer Inc",
+                "Moderna Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/00VACCINE-ALGORITHMS/00VACCINE-ALGORITHMS-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Pernice"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/00VACCINE-ALGORITHMS/00VACCINE-ALGORITHMS-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Pernice"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/00VACCINE-ALGORITHMS/00VACCINE-ALGORITHMS-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Pernice"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/00VACCINE-ALGORITHMS/00VACCINE-ALGORITHMS-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Pernice"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/00VACCINE-ALGORITHMS/00VACCINE-ALGORITHMS-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Pernice"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rtbu04"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "How the United States Lost to Hackers",
+            "abstract": "America’s biggest vulnerability in cyberwarfare is hubris.",
+            "url": "https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html",
+            "uri": "nyt://article/6e4b9573-7ecf-58e0-8e9f-531cdbc2ecc7",
+            "byline": "By Nicole Perlroth",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T10:09:03-05:00",
+            "created_date": "2021-02-06T05:00:11-05:00",
+            "published_date": "2021-02-06T05:00:11-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cyberwarfare and Defense",
+                "US Federal Government Data Breach (2020)",
+                "Computer Security",
+                "Espionage and Intelligence Services",
+                "United States Politics and Government",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "National Security Agency",
+                "SolarWinds",
+                "FireEye Inc",
+                "CyberPoint International LLC"
+            ],
+            "per_facet": [
+                "Gosler, James R"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/autossell/06cyberwar-illo-vids-still-01/06cyberwar-illo-vids-still-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1153,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guillem Casasus"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/autossell/06cyberwar-illo-vids-still-01/06cyberwar-illo-vids-still-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guillem Casasus"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/autossell/06cyberwar-illo-vids-still-01/06cyberwar-illo-vids-still-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guillem Casasus"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/autossell/06cyberwar-illo-vids-still-01/06cyberwar-illo-vids-still-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guillem Casasus"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/autossell/06cyberwar-illo-vids-still-01/06cyberwar-illo-vids-still-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guillem Casasus"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oR9eOF"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Three false claims about the election made in Mike Lindell’s new film.",
+            "abstract": "One America News ran an extensive disclaimer before the broadcast.",
+            "url": "https://www.nytimes.com/2021/02/05/technology/three-false-claims-about-the-election-made-in-mike-lindells-new-film.html",
+            "uri": "nyt://article/ae081c95-941a-5d30-b398-ff60652c43af",
+            "byline": "By Kellen Browning and Tiffany Hsu",
+            "item_type": "Article",
+            "updated_date": "2021-02-07T10:04:37-05:00",
+            "created_date": "2021-02-05T19:22:05-05:00",
+            "published_date": "2021-02-05T19:22:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Voter Fraud (Election Fraud)",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "One America News Network",
+                "My Pillow Inc",
+                "Smartmatic SGO Group"
+            ],
+            "per_facet": [
+                "Lindell, Mike",
+                "Trump, Donald J",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/merlin_182869206_5423212d-e504-4b4e-8658-5b66292fbe6d-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/05distortions-lindell-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/05distortions-lindell-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/merlin_182869206_5423212d-e504-4b4e-8658-5b66292fbe6d-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/merlin_182869206_5423212d-e504-4b4e-8658-5b66292fbe6d-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+                    "copyright": "Al Drago for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rnFJFN"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Winning With Uncle Sam’s Help",
+            "abstract": "Other countries are plowing cash into homegrown technologies. Should the United States follow?",
+            "url": "https://www.nytimes.com/2021/02/05/technology/computer-chips-government-help.html",
+            "uri": "nyt://article/965ba891-e225-558f-b40f-b5ab81fcc77e",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-02-07T22:17:49-05:00",
+            "created_date": "2021-02-05T12:36:20-05:00",
+            "published_date": "2021-02-05T12:36:20-05:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "United States Economy",
+                "Computer Chips",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/05ontech-chips-print/05ontech-unclesam-superJumbo-v2.png",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/05ontech-chips-print/05ontech-unclesam-thumbStandard-v3.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/05ontech-chips-print/05ontech-unclesam-thumbLarge-v3.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/05ontech-chips-print/05ontech-unclesam-mediumThreeByTwo210-v2.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/08/business/05ontech-chips-print/05ontech-unclesam-articleInline-v2.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Beatty"
+                }
+            ],
+            "short_url": "https://nyti.ms/39U2njf"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Russian Campaign Promotes Homegrown Vaccine and Undercuts Rivals",
+            "abstract": "Russian news outlets with connections to the Kremlin ran disingenuous Spanish-language stories targeting vaccines made in the United States and Europe, researchers said.",
+            "url": "https://www.nytimes.com/2021/02/05/technology/russia-covid-vaccine-disinformation.html",
+            "uri": "nyt://article/3f27b099-045b-578a-9415-bb8bb647d976",
+            "byline": "By Sheera Frenkel, Maria Abi-Habib and Julian E. Barnes",
+            "item_type": "Article",
+            "updated_date": "2021-02-06T13:25:43-05:00",
+            "created_date": "2021-02-05T11:09:45-05:00",
+            "published_date": "2021-02-05T11:09:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Rumors and Misinformation",
+                "Social Media",
+                "Spanish Language",
+                "Computers and the Internet",
+                "Sputnik (Satellite)"
+            ],
+            "org_facet": [
+                "Pfizer Inc",
+                "Moderna Inc",
+                "AstraZeneca PLC"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Russia",
+                "Mexico",
+                "Latin America"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00russiavax-misinfo/00russiavax-misinfo-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Screenshots from Russia Today’s Spanish language Facebook account and the official Twitter account of the Russian Embassy in Mexico City.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00russiavax-misinfo/00russiavax-misinfo-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Screenshots from Russia Today’s Spanish language Facebook account and the official Twitter account of the Russian Embassy in Mexico City.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00russiavax-misinfo/00russiavax-misinfo-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Screenshots from Russia Today’s Spanish language Facebook account and the official Twitter account of the Russian Embassy in Mexico City.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00russiavax-misinfo/00russiavax-misinfo-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Screenshots from Russia Today’s Spanish language Facebook account and the official Twitter account of the Russian Embassy in Mexico City.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/00russiavax-misinfo/00russiavax-misinfo-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Screenshots from Russia Today’s Spanish language Facebook account and the official Twitter account of the Russian Embassy in Mexico City.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/39SH3KR"
+        },
+        {
+            "section": "arts",
+            "subsection": "dance",
+            "title": "On Ballet TikTok, a Place for Young Dancers to Be Real",
+            "abstract": "“On TikTok, rather than your technique going viral, you could have your ideas about ballet go viral.”",
+            "url": "https://www.nytimes.com/2021/02/05/arts/dance/ballet-on-tiktok.html",
+            "uri": "nyt://article/342cc585-0e3a-5b5b-b9dc-653e3cbe9ff3",
+            "byline": "By Margaret Fuhrer",
+            "item_type": "Article",
+            "updated_date": "2021-02-07T13:31:38-05:00",
+            "created_date": "2021-02-05T10:00:06-05:00",
+            "published_date": "2021-02-05T10:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Dancing",
+                "Social Media",
+                "Video Recordings, Downloads and Streaming",
+                "Generation Z",
+                "Quarantine (Life and Culture)"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [
+                "Watters, Harper"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/arts/07ballet-tiktok-5/merlin_182918328_c6eb29ff-9609-444b-887d-46db24e74fb2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harper Watters says that because posts reach a non-ballet audience &ldquo;you get more hate.&rdquo;",
+                    "copyright": "Yael Malka for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/arts/07ballet-tiktok-5/07ballet-tiktok-5-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harper Watters says that because posts reach a non-ballet audience &ldquo;you get more hate.&rdquo;",
+                    "copyright": "Yael Malka for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/arts/07ballet-tiktok-5/07ballet-tiktok-5-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harper Watters says that because posts reach a non-ballet audience &ldquo;you get more hate.&rdquo;",
+                    "copyright": "Yael Malka for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/arts/07ballet-tiktok-5/07ballet-tiktok-5-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harper Watters says that because posts reach a non-ballet audience &ldquo;you get more hate.&rdquo;",
+                    "copyright": "Yael Malka for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/arts/07ballet-tiktok-5/merlin_182918328_c6eb29ff-9609-444b-887d-46db24e74fb2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 238,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harper Watters says that because posts reach a non-ballet audience &ldquo;you get more hate.&rdquo;",
+                    "copyright": "Yael Malka for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YLo26P"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Quest for Hollywood Fame Splits Redditors at Heart of Market Frenzy",
+            "abstract": "The moderators of the Reddit message board WallStreetBets battled over movie deals after their sudden fame with the GameStop mania.",
+            "url": "https://www.nytimes.com/2021/02/04/technology/wallstreetbets-gamestop-hollywood.html",
+            "uri": "nyt://article/63a2e922-fba6-5c28-bf05-bbd355476b01",
+            "byline": "By Nathaniel Popper, Taylor Lorenz and Matt Phillips",
+            "item_type": "Article",
+            "updated_date": "2021-02-07T16:33:49-05:00",
+            "created_date": "2021-02-04T19:32:06-05:00",
+            "published_date": "2021-02-04T19:32:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Stocks and Bonds",
+                "Social Media",
+                "Movies"
+            ],
+            "org_facet": [
+                "GameStop Corporation",
+                "Reddit Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/business/05wallstreetbets-print2/04wallstreetbets-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New users have flooded the WallStreetBets board on Reddit.",
+                    "copyright": "Rafael Henrique/Light Rocket, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/business/05wallstreetbets-print2/04wallstreetbets-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New users have flooded the WallStreetBets board on Reddit.",
+                    "copyright": "Rafael Henrique/Light Rocket, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/business/05wallstreetbets-print2/04wallstreetbets-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New users have flooded the WallStreetBets board on Reddit.",
+                    "copyright": "Rafael Henrique/Light Rocket, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/business/05wallstreetbets-print2/04wallstreetbets-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New users have flooded the WallStreetBets board on Reddit.",
+                    "copyright": "Rafael Henrique/Light Rocket, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/05/business/05wallstreetbets-print2/04wallstreetbets-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New users have flooded the WallStreetBets board on Reddit.",
+                    "copyright": "Rafael Henrique/Light Rocket, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YLnlKG"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "No, Ocasio-Cortez did not make up her experience during the Capitol riots.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2021/02/04/technology/aoc-capitol-riots.html",
+            "uri": "nyt://article/e99db5a6-ebc0-5863-8f8c-2f91c8898fc3",
+            "byline": "By Maggie Astor",
+            "item_type": "Article",
+            "updated_date": "2021-02-05T16:08:46-05:00",
+            "created_date": "2021-02-04T18:58:26-05:00",
+            "published_date": "2021-02-04T18:58:26-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Capitol Building (Washington, DC)",
+                "Demonstrations, Protests and Riots",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Ocasio-Cortez, Alexandria"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/04/us/politics/04distortions-aoc1/merlin_183246288_45c7e1c9-13fb-47a7-9b25-f9fc094a1615-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Alexandria Ocasio-Cortez at the Capitol on Thursday.",
+                    "copyright": "Anna Moneymaker for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/04/us/politics/04distortions-aoc1/04distortions-aoc1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Alexandria Ocasio-Cortez at the Capitol on Thursday.",
+                    "copyright": "Anna Moneymaker for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/04/us/politics/04distortions-aoc1/04distortions-aoc1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Alexandria Ocasio-Cortez at the Capitol on Thursday.",
+                    "copyright": "Anna Moneymaker for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/04/us/politics/04distortions-aoc1/merlin_183246288_45c7e1c9-13fb-47a7-9b25-f9fc094a1615-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Alexandria Ocasio-Cortez at the Capitol on Thursday.",
+                    "copyright": "Anna Moneymaker for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/04/us/politics/04distortions-aoc1/merlin_183246288_45c7e1c9-13fb-47a7-9b25-f9fc094a1615-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Alexandria Ocasio-Cortez at the Capitol on Thursday.",
+                    "copyright": "Anna Moneymaker for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jgc12E"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Paris Hilton Has a Podcast, With a Twist",
+            "abstract": "The aughts fixture and proto-influencer’s new show with iHeartMedia aims to stake out a middle ground between podcasting and social media.",
+            "url": "https://www.nytimes.com/2021/02/04/arts/paris-hilton-podcast.html",
+            "uri": "nyt://article/f4024a04-8b56-53da-953c-a9180edde097",
+            "byline": "By Reggie Ugwu",
+            "item_type": "Article",
+            "updated_date": "2021-02-05T22:52:00-05:00",
+            "created_date": "2021-02-04T15:00:08-05:00",
+            "published_date": "2021-02-04T15:00:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Podcasts",
+                "This Is Paris (Radio Program)",
+                "Quarantine (Life and Culture)",
+                "Two Thousands (Decade)",
+                "Celebrities",
+                "This Is Paris (Movie)",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "iHeartMedia Inc"
+            ],
+            "per_facet": [
+                "Hilton, Paris"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/arts/04paris-pod5/merlin_183231372_af5307f2-f6d7-4cde-ae1d-b173db4629f2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1672,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to the flagship podcast &ldquo;This Is Paris,&rdquo; Hilton&rsquo;s deal with iHeartMedia calls for the creation of six other shows over the next three years.",
+                    "copyright": "Rosie Marks for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/arts/04paris-pod5/04paris-pod5-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to the flagship podcast &ldquo;This Is Paris,&rdquo; Hilton&rsquo;s deal with iHeartMedia calls for the creation of six other shows over the next three years.",
+                    "copyright": "Rosie Marks for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/arts/04paris-pod5/04paris-pod5-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to the flagship podcast &ldquo;This Is Paris,&rdquo; Hilton&rsquo;s deal with iHeartMedia calls for the creation of six other shows over the next three years.",
+                    "copyright": "Rosie Marks for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/arts/04paris-pod5/04paris-pod5-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to the flagship podcast &ldquo;This Is Paris,&rdquo; Hilton&rsquo;s deal with iHeartMedia calls for the creation of six other shows over the next three years.",
+                    "copyright": "Rosie Marks for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/06/arts/04paris-pod5/merlin_183231372_af5307f2-f6d7-4cde-ae1d-b173db4629f2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 233,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to the flagship podcast &ldquo;This Is Paris,&rdquo; Hilton&rsquo;s deal with iHeartMedia calls for the creation of six other shows over the next three years.",
+                    "copyright": "Rosie Marks for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YKdULv"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Instagram Bans Hundreds of Accounts With Stolen User Names",
+            "abstract": "Accounts operating under rare “O.G. user names” obtained through hacking were banned on Thursday after a monthslong investigation.",
+            "url": "https://www.nytimes.com/2021/02/04/style/instagram-account-fraud-ban.html",
+            "uri": "nyt://article/a73c2db4-ab00-5b82-bce8-264395687e89",
+            "byline": "By Taylor Lorenz",
+            "item_type": "Article",
+            "updated_date": "2021-02-08T12:31:40-05:00",
+            "created_date": "2021-02-04T13:23:44-05:00",
+            "published_date": "2021-02-04T13:23:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cyberattacks and Hackers",
+                "Social Media"
+            ],
+            "org_facet": [
+                "Instagram Inc",
+                "TikTok (ByteDance)",
+                "Twitter"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/fashion/04ACCOUNT-BAN/merlin_178726251_98c720b6-3200-467d-a103-c6290ce001d7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Instagram is leading a crackdown on hundreds of stolen account names obtained through hacking, extortion, blackmail and harassment.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/fashion/04ACCOUNT-BAN/04ACCOUNT-BAN-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Instagram is leading a crackdown on hundreds of stolen account names obtained through hacking, extortion, blackmail and harassment.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/fashion/04ACCOUNT-BAN/04ACCOUNT-BAN-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Instagram is leading a crackdown on hundreds of stolen account names obtained through hacking, extortion, blackmail and harassment.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/fashion/04ACCOUNT-BAN/04ACCOUNT-BAN-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Instagram is leading a crackdown on hundreds of stolen account names obtained through hacking, extortion, blackmail and harassment.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/07/fashion/04ACCOUNT-BAN/merlin_178726251_98c720b6-3200-467d-a103-c6290ce001d7-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Instagram is leading a crackdown on hundreds of stolen account names obtained through hacking, extortion, blackmail and harassment.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oI4QkU"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Uber for Everything",
+            "abstract": "Delivery apps like Uber and Instacart are branching out. How this shakes out will affect all of us.",
+            "url": "https://www.nytimes.com/2021/02/04/technology/uber-for-everything.html",
+            "uri": "nyt://article/f146124d-72ff-50a6-85fd-1eb9edf55565",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-02-04T12:37:26-05:00",
+            "created_date": "2021-02-04T12:37:26-05:00",
+            "published_date": "2021-02-04T12:37:26-05:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Delivery Services",
+                "Automobiles"
+            ],
+            "org_facet": [
+                "Apple Inc",
+                "Uber Technologies Inc",
+                "Instacart"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/business/04ontech-uber/04ontech-uber-superJumbo-v2.png",
+                    "format": "superJumbo",
+                    "height": 1045,
+                    "width": 1775,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Adrien"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/business/04ontech-uber/04ontech-uber-thumbStandard-v3.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Adrien"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/business/04ontech-uber/04ontech-uber-thumbLarge-v3.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Adrien"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/business/04ontech-uber/04ontech-uber-mediumThreeByTwo210-v3.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Adrien"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/business/04ontech-uber/04ontech-uber-articleInline-v2.png",
+                    "format": "Normal",
+                    "height": 112,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Adrien"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cAUPDI"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "‘A Glitch in the Matrix’ Review: Is This All Just a Simulation?",
+            "abstract": "This documentary, from the director of “Room 237,” is a lively yet superficial exploration of the theory that our reality is actually a computer simulation.",
+            "url": "https://www.nytimes.com/2021/02/04/movies/a-glitch-in-the-matrix-review.html",
+            "uri": "nyt://article/69a2ace4-ac36-52dd-82eb-7f3d2bdc6193",
+            "byline": "By Glenn Kenny",
+            "item_type": "Article",
+            "updated_date": "2021-02-05T00:35:47-05:00",
+            "created_date": "2021-02-04T07:00:06-05:00",
+            "published_date": "2021-02-04T07:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Philosophy",
+                "Science and Technology",
+                "Computers and the Internet",
+                "A Glitch in the Matrix (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Ascher, Rodney"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/arts/04glitch-art/merlin_182980362_f910ac77-ed97-43eb-9703-8faffff3ee08-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A still from the documentary “A Glitch in the Matrix.”",
+                    "copyright": "Magnolia"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/arts/04glitch-art/04glitch-art-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A still from the documentary “A Glitch in the Matrix.”",
+                    "copyright": "Magnolia"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/arts/04glitch-art/04glitch-art-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A still from the documentary “A Glitch in the Matrix.”",
+                    "copyright": "Magnolia"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/arts/04glitch-art/04glitch-art-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A still from the documentary “A Glitch in the Matrix.”",
+                    "copyright": "Magnolia"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/arts/04glitch-art/merlin_182980362_f910ac77-ed97-43eb-9703-8faffff3ee08-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A still from the documentary “A Glitch in the Matrix.”",
+                    "copyright": "Magnolia"
+                }
+            ],
+            "short_url": "https://nyti.ms/3tpjX6n"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Parler C.E.O. Says He Was Fired",
+            "abstract": "John Matze, who led the social media platform that was popular with conservatives, said he recently disagreed with one of the site’s backers, Rebekah Mercer.",
+            "url": "https://www.nytimes.com/2021/02/03/technology/parler-ceo-fired.html",
+            "uri": "nyt://article/22a7596f-4df7-5b28-93ea-e0fed4af94bb",
+            "byline": "By Kellen Browning",
+            "item_type": "Article",
+            "updated_date": "2021-02-05T11:16:07-05:00",
+            "created_date": "2021-02-03T21:28:17-05:00",
+            "published_date": "2021-02-03T21:28:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Right-Wing Extremism and Alt-Right",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Appointments and Executive Changes",
+                "Mobile Applications",
+                "Freedom of Speech and Expression",
+                "Rumors and Misinformation",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Parler LLC"
+            ],
+            "per_facet": [
+                "Matze, John",
+                "Mercer, Rebekah A (1973- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/lens/03parler/03parler-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 761,
+                    "width": 1142,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Matze, who was chief executive of Parler, during an appearance on CNBC’s “Squawk Box” last year.",
+                    "copyright": "CNBC"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/lens/03parler/03parler-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Matze, who was chief executive of Parler, during an appearance on CNBC’s “Squawk Box” last year.",
+                    "copyright": "CNBC"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/lens/03parler/03parler-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Matze, who was chief executive of Parler, during an appearance on CNBC’s “Squawk Box” last year.",
+                    "copyright": "CNBC"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/lens/03parler/03parler-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Matze, who was chief executive of Parler, during an appearance on CNBC’s “Squawk Box” last year.",
+                    "copyright": "CNBC"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/lens/03parler/03parler-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Matze, who was chief executive of Parler, during an appearance on CNBC’s “Squawk Box” last year.",
+                    "copyright": "CNBC"
+                }
+            ],
+            "short_url": "https://nyti.ms/3tqcUdK"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Clearview AI’s Facial Recognition App Called Illegal in Canada",
+            "abstract": "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and told the firm to delete facial images from its database.",
+            "url": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+            "uri": "nyt://article/dbf85629-cc81-5b08-a400-9e408eb36c29",
+            "byline": "By Kashmir Hill",
+            "item_type": "Article",
+            "updated_date": "2021-02-04T13:18:37-05:00",
+            "created_date": "2021-02-03T19:08:15-05:00",
+            "published_date": "2021-02-03T19:08:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Facial Recognition Software",
+                "Privacy",
+                "Regulation and Deregulation of Industry",
+                "Mobile Applications",
+                "Computers and the Internet",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Clearview AI Inc"
+            ],
+            "per_facet": [
+                "Therrien, Daniel",
+                "Ton-That, Hoan"
+            ],
+            "geo_facet": [
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Canada’s privacy commissioner, Daniel Therrien, said: “What Clearview does is mass surveillance, and it is illegal.”",
+                    "copyright": "Chris Wattie/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Canada’s privacy commissioner, Daniel Therrien, said: “What Clearview does is mass surveillance, and it is illegal.”",
+                    "copyright": "Chris Wattie/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Canada’s privacy commissioner, Daniel Therrien, said: “What Clearview does is mass surveillance, and it is illegal.”",
+                    "copyright": "Chris Wattie/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Canada’s privacy commissioner, Daniel Therrien, said: “What Clearview does is mass surveillance, and it is illegal.”",
+                    "copyright": "Chris Wattie/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Canada’s privacy commissioner, Daniel Therrien, said: “What Clearview does is mass surveillance, and it is illegal.”",
+                    "copyright": "Chris Wattie/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2O5GwwL"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Jeff Bezos Renews Focus on Blue Origin, Which Has Been Slower to Launch",
+            "abstract": "The Amazon founder started his private rocket company in 2000, but its busiest phase could just now be starting.",
+            "url": "https://www.nytimes.com/2021/02/03/science/blue-origin-jeff-bezos.html",
+            "uri": "nyt://article/c0c26cd2-210f-52e1-8b6f-377f76a5c5e7",
+            "byline": "By Kenneth Chang",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T14:38:56-05:00",
+            "created_date": "2021-02-03T17:24:22-05:00",
+            "published_date": "2021-02-03T17:24:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Private Spaceflight",
+                "Rocket Science and Propulsion",
+                "Space and Astronomy",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Blue Origin",
+                "Space Exploration Technologies Corp",
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/science/03BLUEORIGIN3/merlin_154629609_5bc4ea0d-9f3e-42af-aec4-7f63a7917f44-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Bezos announcing Blue Origin&rsquo;s New Shepard space system during the 33rd Space Symposium in Colorado Springs in 2017.",
+                    "copyright": "Nick Cote for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/science/03BLUEORIGIN3/merlin_154629609_5bc4ea0d-9f3e-42af-aec4-7f63a7917f44-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Bezos announcing Blue Origin&rsquo;s New Shepard space system during the 33rd Space Symposium in Colorado Springs in 2017.",
+                    "copyright": "Nick Cote for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/science/03BLUEORIGIN3/merlin_154629609_5bc4ea0d-9f3e-42af-aec4-7f63a7917f44-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Bezos announcing Blue Origin&rsquo;s New Shepard space system during the 33rd Space Symposium in Colorado Springs in 2017.",
+                    "copyright": "Nick Cote for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/science/03BLUEORIGIN3/merlin_154629609_5bc4ea0d-9f3e-42af-aec4-7f63a7917f44-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Bezos announcing Blue Origin&rsquo;s New Shepard space system during the 33rd Space Symposium in Colorado Springs in 2017.",
+                    "copyright": "Nick Cote for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/04/science/03BLUEORIGIN3/merlin_154629609_5bc4ea0d-9f3e-42af-aec4-7f63a7917f44-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Bezos announcing Blue Origin&rsquo;s New Shepard space system during the 33rd Space Symposium in Colorado Springs in 2017.",
+                    "copyright": "Nick Cote for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3pYWOWp"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "How Andy Jassy, Amazon’s Next C.E.O., Was a ‘Brain Double’ for Jeff Bezos",
+            "abstract": "Mr. Jassy, who will become Amazon’s chief this summer, has spent more than two decades absorbing lessons from Mr. Bezos.",
+            "url": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html",
+            "uri": "nyt://article/b0c913ee-5116-50b6-8d4d-e66c9386be5c",
+            "byline": "By Karen Weise and Daisuke Wakabayashi",
+            "item_type": "Article",
+            "updated_date": "2021-02-04T13:10:50-05:00",
+            "created_date": "2021-02-03T17:20:33-05:00",
+            "published_date": "2021-02-03T17:20:33-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Computers and the Internet",
+                "E-Commerce",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+                "Jassy, Andrew R",
+                "Bezos, Jeffrey P"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/merlin_147807915_f3676e20-7a0f-45a0-8932-97ce7f389411-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a young executive at Amazon, Andy Jassy, who will be the company’s next chief executive, spent 18 months shadowing Jeff Bezos, the founder.",
+                    "copyright": "David Paul Morris/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a young executive at Amazon, Andy Jassy, who will be the company’s next chief executive, spent 18 months shadowing Jeff Bezos, the founder.",
+                    "copyright": "David Paul Morris/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a young executive at Amazon, Andy Jassy, who will be the company’s next chief executive, spent 18 months shadowing Jeff Bezos, the founder.",
+                    "copyright": "David Paul Morris/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a young executive at Amazon, Andy Jassy, who will be the company’s next chief executive, spent 18 months shadowing Jeff Bezos, the founder.",
+                    "copyright": "David Paul Morris/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/merlin_147807915_f3676e20-7a0f-45a0-8932-97ce7f389411-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a young executive at Amazon, Andy Jassy, who will be the company’s next chief executive, spent 18 months shadowing Jeff Bezos, the founder.",
+                    "copyright": "David Paul Morris/Bloomberg"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jdvLno"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Amazon Without Jeff Bezos",
+            "abstract": "Amazon has reimagined entire industries. What happens next to the $1.7 trillion company?",
+            "url": "https://www.nytimes.com/2021/02/03/technology/amazon-without-jeff-bezos.html",
+            "uri": "nyt://article/66f90f0c-345b-5111-a0ce-2476d6ddf1df",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-02-09T14:39:03-05:00",
+            "created_date": "2021-02-03T12:59:10-05:00",
+            "published_date": "2021-02-03T12:59:10-05:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Computers and the Internet",
+                "Cloud Computing"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03ontech-bezos/03ontech-bezos-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Alvaro Dominguez, photo by Kyle Johnson for The New York Times; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03ontech-bezos/03ontech-bezos-thumbStandard-v3.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Alvaro Dominguez, photo by Kyle Johnson for The New York Times; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03ontech-bezos/03ontech-bezos-thumbLarge-v3.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Alvaro Dominguez, photo by Kyle Johnson for The New York Times; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03ontech-bezos/03ontech-bezos-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Alvaro Dominguez, photo by Kyle Johnson for The New York Times; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/02/03/business/03ontech-bezos/03ontech-bezos-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Alvaro Dominguez, photo by Kyle Johnson for The New York Times; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3pP2jqn"
+        }
+    ]
+}
