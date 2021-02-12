@@ -1,3 +1,5 @@
+This is the source code for a post on medium - https://yunusdev.medium.com/algolia-search-infinity-hits-highlighting-with-laravel-vuejs-2b0015ed9caf
+
 **To get the project up and running, Pls Do the following After Cloning:**
 
 - RUN `composer install`
